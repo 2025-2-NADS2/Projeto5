@@ -14,7 +14,7 @@ Vide tutoriais do PI.
 
 ## FrontLine
 
-## Integrantes: <a href="https://www.linkedin.com/in/enzo-ribeiro/">Enzo Ribeiro da Silva</a>, <a href="https://www.linkedin.com/in/victorbarq/">Rikelmy Anacleto</a>, <a href="https://www.linkedin.com/in/victorbarq/">Matheus Andreo</a>, <a href="https://www.linkedin.com/in/victorbarq/">Lucas Camargo</a>
+## Integrantes: <a href="https://www.linkedin.com/in/enzo-ribeiro/">Enzo Ribeiro da Silva</a>, <a href="https://www.linkedin.com/in/rikelmy-anacleto-07102006d18/">Rikelmy Anacleto</a>, <a href="https://www.linkedin.com/in/victorbarq/">Matheus Andreo</a>, <a href="https://www.linkedin.com/in/victorbarq/">Lucas Camargo</a>
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/francisco-escobar/">Francisco de Souza Escobar</a>, <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>, <a href="https://www.linkedin.com/in/eduardo-savino-gomes-77833a10/">Eduardo Savino Gomes</a>, <a href="https://www.linkedin.com/in/ronaldo-araujo-pinto-3542811a/">Ronaldo Araujo Pinto</a>, <a href="https://www.linkedin.com/in/jbuesso/">José Carlos Buesso Jr</a>
 
