@@ -22,12 +22,7 @@
 ##
 
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
-<br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
-<br><br>
-May the force be with you!
-<br><br>
+Nós da FrontLine criamos o site do Instituto Alma para facilitar nas arrecadações e, indiretamente, ajudarmos mais pessoas. A missão é criar uma comunidade e mostrar as ações solidárias para incentivar o bem e trazer mais pessoas para a comunidade.
 
 ## 🛠 Estrutura de pastas
 
@@ -45,20 +40,6 @@ May the force be with you!
   &emsp;|-->Backend<br>
   &emsp;|-->Frontend<br>
 |readme.md<br>
-
-A pasta raiz contem dois arquivos que devem ser alterados:
-
-<b>README.MD</b>: Arquivo que serve como guia e explicação geral sobre seu projeto. O mesmo que você está lendo agora.
-
-Há também 4 pastas que seguem da seguinte forma:
-
-<b>documentos</b>: Toda a documentação estará nesta pasta.
-
-<b>executáveis</b>: Binários e executáveis do projeto devem estar nesta pasta.
-
-<b>imagens</b>: Imagens do sistema
-
-<b>src</b>: Pasta que contém o código fonte.
 
 ## 🛠 Instalação
 
