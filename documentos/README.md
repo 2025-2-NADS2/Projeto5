@@ -12,7 +12,7 @@
 <b>Protótipo - [Figma](https://www.figma.com/design/2dzroc42uflZqHVDYM6PbR/Alma?node-id=0-1&t=OT7ehOOaYQ6RmOVV-1)</b>
 <br><br>
 
-### Disciplina 2
+### Programação Orientada a Objetos
 
 <b>ALUNO 1- [Trabalho/Documento](https://github.com/fecaphub/Template_PI/blob/main/documentos/Entrega%201/Disciplina%201/Venha%20para%20a%20FECAP!.txt)</b>
 <br><br>
@@ -21,7 +21,25 @@
 <b>ALUNO 1- [Trabalho/Documento](https://github.com/fecaphub/Template_PI/blob/main/documentos/Entrega%201/Disciplina%201/Venha%20para%20a%20FECAP!.txt)</b>
 <br><br>
 
-### Disciplina 3
+### Estrutura de Dados
+
+<b>ALUNO 1- [Trabalho/Documento](https://github.com/fecaphub/Template_PI/blob/main/documentos/Entrega%201/Disciplina%201/Venha%20para%20a%20FECAP!.txt)</b>
+<br><br>
+<b>ALUNO 1- [Trabalho/Documento](https://github.com/fecaphub/Template_PI/blob/main/documentos/Entrega%201/Disciplina%201/Venha%20para%20a%20FECAP!.txt)</b>
+<br><br>
+<b>ALUNO 1- [Trabalho/Documento](https://github.com/fecaphub/Template_PI/blob/main/documentos/Entrega%201/Disciplina%201/Venha%20para%20a%20FECAP!.txt)</b>
+<br><br>
+
+### Desenvolvimento Web Full Stack
+
+<b>ALUNO 1- [Trabalho/Documento](https://github.com/fecaphub/Template_PI/blob/main/documentos/Entrega%201/Disciplina%201/Venha%20para%20a%20FECAP!.txt)</b>
+<br><br>
+<b>ALUNO 1- [Trabalho/Documento](https://github.com/fecaphub/Template_PI/blob/main/documentos/Entrega%201/Disciplina%201/Venha%20para%20a%20FECAP!.txt)</b>
+<br><br>
+<b>ALUNO 1- [Trabalho/Documento](https://github.com/fecaphub/Template_PI/blob/main/documentos/Entrega%201/Disciplina%201/Venha%20para%20a%20FECAP!.txt)</b>
+<br><br>
+
+### Banco de Dados
 
 <b>ALUNO 1- [Trabalho/Documento](https://github.com/fecaphub/Template_PI/blob/main/documentos/Entrega%201/Disciplina%201/Venha%20para%20a%20FECAP!.txt)</b>
 <br><br>
