@@ -19,6 +19,8 @@
 <img src="imagens/logo.png" alt="Instituto Alma" border="0">
 </p>
 
+<hr>
+
 
 De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
 <br><br>
