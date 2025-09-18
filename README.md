@@ -22,7 +22,7 @@
 ##
 
 
-Nós da FrontLine criamos o site do Instituto Alma para facilitar nas arrecadações e, indiretamente, ajudarmos mais pessoas. A missão é criar uma comunidade e mostrar as ações solidárias para incentivar o bem e trazer mais pessoas para a comunidade.
+Nós da FrontLine criamos o site do Instituto Alma para facilitar nas arrecadações e, indiretamente, ajudarmos mais pessoas. A missão é fortalecer uma comunidade e mostrar as ações solidárias para incentivar o bem e trazer mais pessoas para a comunidade.
 
 ## 🛠 Estrutura de pastas
 
