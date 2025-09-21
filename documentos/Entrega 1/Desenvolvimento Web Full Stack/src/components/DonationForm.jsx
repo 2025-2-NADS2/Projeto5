@@ -15,10 +15,10 @@ function DonationForm() {
       return;
     }
 
-    // Simula o processamento da doação
+  
     alert(`Obrigado, ${name}!\nSua doação de R$ ${amount} foi recebida com sucesso.\nUm recibo foi enviado para ${email}.`);
 
-    // Limpa o formulário
+   
     setName('');
     setEmail('');
     setAmount('');
