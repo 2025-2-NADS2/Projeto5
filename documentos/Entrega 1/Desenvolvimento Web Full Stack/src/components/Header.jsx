@@ -1,6 +1,6 @@
 
 
-import logoAlma from '../assets/logo-alma-transparente.png';
+import logoAlma from '../assets/logo alma novo.jpeg';
 
 function Header() {
   return (
