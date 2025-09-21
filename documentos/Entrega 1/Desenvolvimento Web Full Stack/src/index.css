@@ -1,20 +1,26 @@
 
+
+
+
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Roboto:wght@400;500&display=swap');
 
 
 :root {
-    
-    --primary-color: #005a8d; 
-    --secondary-color: #f7a072; 
-    --background-color:  #9eb9ce; 
-    --text-color: #343a40; 
+   
+    --primary-color: #006989;       
+    --secondary-color: #01A7C2;     
+    --light-gray-color: #A3BAC3;    
+    --background-color: #EAEBED;    
+    --text-color: #343a40;          
     --card-bg-color: #ffffff;
-    --gap: 20px; 
 
-    /* Fontes */
+    --gap: 20px;
+
+    
     --font-headings: 'Montserrat', sans-serif;
     --font-body: 'Roboto', sans-serif;
 }
+
 
 
 * {
@@ -218,4 +224,68 @@ button:hover, .story-link:hover {
 
 .sponsors-logos img:hover {
   opacity: 1;
+}
+
+
+.quem-somos-section, .projetos-section {
+  padding: 40px var(--gap);
+  text-align: center;
+}
+
+.quem-somos-section h2, .projetos-section h2 {
+  font-family: var(--font-headings);
+  color: var(--primary-color);
+  margin-bottom: 30px;
+  font-size: 2rem;
+}
+
+.quem-somos-content > p {
+  max-width: 800px;
+  margin: 0 auto 30px auto;
+  font-size: 1.1rem;
+  line-height: 1.8;
+}
+
+.valores-container {
+  display: flex;
+  justify-content: center;
+  gap: var(--gap);
+  flex-wrap: wrap;
+}
+
+.valor-card {
+  flex-basis: 300px;
+  padding: 20px;
+}
+
+.valor-card h3 {
+  font-family: var(--font-headings);
+  color: var(--secondary-color);
+  margin-bottom: 10px;
+}
+
+.projetos-container {
+  display: flex;
+  justify-content: center;
+  gap: var(--gap);
+  flex-wrap: wrap;
+}
+
+.projeto-card {
+  flex-basis: 350px;
+  background-color: var(--card-bg-color);
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+}
+
+.projeto-imagem-placeholder {
+  height: 200px;
+  background-color: var(--light-gray-color);
+}
+
+.projeto-card h3 {
+  font-family: var(--font-headings);
+  color: var(--primary-color);
+  padding: 20px;
 }
