@@ -30,11 +30,17 @@ Nós da FrontLine criamos o site do Instituto Alma para facilitar nas arrecadaç
 |<br>
 |-->documentos<br>
   &emsp;|-->Entrega 1<br>
-  &emsp;|-->Entrega 2<br>
+  &emsp;&emsp;|-->Banco de Dados<br>
+  &emsp;&emsp;|-->Desenvolvimento Web Full Stack<br>
+  &emsp;&emsp;|-->Design de Interface Digital<br>
+  &emsp;&emsp;|-->Estrutura de Dados<br>
+  &emsp;&emsp;|-->Programação Orientada a Objetos<br>
   &emsp;|-->ReadME<br>
   &emsp;|Documentação.docx<br>
 |-->src<br>
   &emsp;|-->Entrega 1<br>
+  &emsp;&emsp;|-->Front-End<br>
+  &emsp;&emsp;|-->Back-End<br>
   &emsp;|-->Entrega 2<br>
   &emsp;&emsp;|-->Front-End<br>
   &emsp;&emsp;|-->Back-End<br>
@@ -42,8 +48,6 @@ Nós da FrontLine criamos o site do Instituto Alma para facilitar nas arrecadaç
 |readme.md<br>
 
 
-## 📋 Licença/License
-Utilize o link <https://chooser-beta.creativecommons.org/> para fazer uma licença CC BY 4.0.
 
 ## 🎓 Referências
 
@@ -52,6 +56,5 @@ Aqui estão as referências usadas no projeto.
 1. <https://github.com/iuricode/readme-template>
 2. <https://github.com/gabrieldejesus/readme-model>
 3. <https://chooser-beta.creativecommons.org/>
-4. <https://freesound.org/>
 5. <https://www.toptal.com/developers/gitignore>
-6. Músicas por: <a href="https://freesound.org/people/DaveJf/sounds/616544/"> DaveJf </a> e <a href="https://freesound.org/people/DRFX/sounds/338986/"> DRFX </a> ambas com Licença CC 0.
+
