@@ -5,7 +5,7 @@
 
 ### Design de Interface Digital
 
-<b>MoodBoard - [PDF](https://www.figma.com/design/OWq8miQ42fNHoQsJHg85Qg/moodboard?node-id=0-1&t=ovNnTVqpTMtFZN11-1)</b>
+<b>MoodBoard - [PDF](https://github.com/2025-2-NADS2/Projeto5/blob/main/documentos/Entrega%201/Design%20de%20Interface%20Digital/moodboard/Guia_de_Estilo_Instituto_Alma.pdf.pdf)</b>
 <br><br>
 <b>Mapa de navegação - [Figma](https://www.figma.com/board/ZA8zul5QXl1RCIhR5nLxpy/MAPA-DE-NAVEGA%C3%87%C3%83O?t=USYynW9JXhlFgIYV-1)</b>
 <br><br>
