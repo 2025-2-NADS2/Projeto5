@@ -47,6 +47,8 @@ Nós da FrontLine criamos o site do Instituto Alma para facilitar nas arrecadaç
 |-->imagens<br>
 |readme.md<br>
 
+## 📋 Licença/License
+<https://creativecommons.org/licenses/by/4.0/>
 
 
 ## 🎓 Referências
