@@ -1,44 +1,39 @@
+// src/App.jsx
+import { Routes, Route } from 'react-router-dom';
+import Header from './components/Header.jsx';
+import Footer from './components/Footer.jsx';
 
 
-import Header from './components/Header';
-import StoryCard from './components/StoryCard';
-import Sidebar from './components/Sidebar';
-import Footer from './components/Footer';
-import Sponsors from './components/Sponsors'; 
-
-const storiesData = [
-  { id: 1, title: 'A História de Maria', text: 'Com o apoio do Instituto Alma, Maria conseguiu concluir seus estudos...' },
-  { id: 2, title: 'João e a Oportunidade', text: 'Através de um de nossos programas de capacitação, João descobriu seu talento...' },
-];
+import HomePage from './pages/HomePage.jsx';
+import QuemSomosPage from './pages/QuemSomosPage.jsx';
+import ProjetosPage from './pages/ProjetosPage.jsx';
+import DoacoesPage from './pages/DoacoesPage.jsx';
+import ContatoPage from './pages/ContatoPage.jsx';
+import ParceiroPage from './pages/ParceiroPage.jsx';
+import AdminLoginPage from './pages/AdminLoginPage.jsx';
+import AdminDashboardPage from './pages/AdminDashboardPage.jsx';
 
 function App() {
   return (
-    <>
+    <> 
       <Header />
-      <div className="main-container">
-        <main className="content">
-          <section className="news-card">
-            <h2>Quem Somos</h2>
-            <p>O instituto alma surgiu com o proposito de promover mudanças socias através de ações diferenciadas, nossas ações visam encantar a vida de pessoas em situação de vulnerabilidade.</p>
-          </section>
-          <section>
-            <h2>Histórias que Inspiram</h2>
-            {storiesData.map(story => (
-              <StoryCard 
-                key={story.id}
-                title={story.title}
-                text={story.text}
-              />
-            ))}
-          </section>
-        </main>
-        
-        <Sidebar />
-      </div>
-
-     
-      <Sponsors />
-
+      
+      <main>
+        <Routes>
+          
+          <Route path="/" element={<HomePage />} />
+          <Route path="/quem-somos" element={<QuemSomosPage />} />
+          <Route path="/projetos" element={<ProjetosPage />} />
+          <Route path="/doacoes" element={<DoacoesPage />} />
+          <Route path="/contato" element={<ContatoPage />} />
+          <Route path="/seja-parceiro" element={<ParceiroPage />} />
+          
+          
+          <Route path="/admin/login" element={<AdminLoginPage />} />
+          <Route path="/admin/dashboard" element={<AdminDashboardPage />} />
+        </Routes>
+      </main>
+      
       <Footer />
     </>
   );
