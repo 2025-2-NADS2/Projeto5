@@ -1,24 +1,25 @@
+// src/components/Header.jsx
+import { Link } from 'react-router-dom';
 
-
-import logoAlma from '../assets/logo-alma-transparente.png';
 
 function Header() {
   return (
     <header className="site-header">
-    
-      <img 
-        src={logoAlma} 
-        alt="Logo do Instituto Alma" 
-        className="logo"
-      />
-      
+      <Link to="/">
+        <img 
+          src="https://placehold.co/150x60/006989/FFF?text=ALMA" 
+          alt="Logo do Instituto Alma" 
+          className="logo"
+        />
+      </Link>
       <nav>
-        <a href="#">Quem Somos</a>
-        <a href="#">Histórias</a>
-        <a href="#">Faça uma Doação</a>
+        <Link to="/quem-somos">Quem Somos</Link>
+        <Link to="/projetos">Projetos</Link>
+        <Link to="/doacoes">Doações</Link>
+        <Link to="/contato">Contato</Link>
+        <Link to="/seja-parceiro">Seja Parceiro</Link>
       </nav>
     </header>
   );
 }
-
 export default Header;
