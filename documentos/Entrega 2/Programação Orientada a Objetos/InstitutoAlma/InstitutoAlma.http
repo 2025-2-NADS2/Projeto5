@@ -1,0 +1,6 @@
+@InstitutoAlma_HostAddress = http://localhost:5030
+
+GET {{InstitutoAlma_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
