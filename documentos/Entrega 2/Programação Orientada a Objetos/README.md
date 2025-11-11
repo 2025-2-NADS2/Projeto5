@@ -1,8 +1,3 @@
-# Instituto Alma - API
-
-Este projeto é a API do Instituto Alma, criada como trabalho de faculdade. A aplicação está funcional e publicada no **Azure**, permitindo acessar dados de usuários, doações, atividades, eventos e documentos.
-
----
 
 ## 🌐 URL do Azure
 
