@@ -30,7 +30,7 @@ A aplicação consiste em um **Frontend** (site público e painel admin) constru
 
 ---
 
-## 🔧 Como Rodar o Projeto Localmente
+##  Como Rodar o Projeto Localmente
 
 Você precisará ter o **Node.js** (v20+) e um servidor **MySQL** (como o **XAMPP**) instalados e rodando.
 
