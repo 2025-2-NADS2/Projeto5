@@ -47,6 +47,13 @@ Nós da FrontLine criamos o site do Instituto Alma para facilitar nas arrecadaç
 |-->imagens<br>
 |readme.md<br>
 
+## 🛠 Instalação
+
+Acesse o projeto diretamente do seu navegador, sem precisar instalar nada!
+
+É só clicar no link abaixo: https://instituto-alma.netlify.app/
+
+
 ## 📋 Licença/License
 <https://creativecommons.org/licenses/by/4.0/>
 
